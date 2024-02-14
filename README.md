@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-card-preview-using-html-and-css-rHT2OTss6n
+- Live Site URL: https://fem-blog-preview-card-gp.netlify.app/
 
 ## My process
 
